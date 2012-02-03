@@ -365,8 +365,7 @@ window.Specs = {
 				"full-width", "proportional-width",
 				"ruby", "simplified full-width ruby"
 			],
-			"font-variant": "sub lining-nums contextual ruby",
-			"font-feature-settings": "'smcp=1'"
+			"font-variant": "sub lining-nums contextual ruby"
 		},
 		"@rules": {
 			"@font-face": "@font-face",
